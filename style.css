@@ -25,6 +25,15 @@
     --bg-gradient: linear-gradient(to right, #ff512f, #dd2479);
     --bg-gradient-indigo: linear-gradient(to right, #8e2de2, #4a00e0);
     --bg-gradient-peach: linear-gradient(to right, #fff7f3, #fff7f3);
+
+
+    /* ---IMAGES -- */
+    --bg-cover: url('./assets/bgimg1.png');
+    --bg-image1 : url('./assets/img1.png');
+    --bg-image2 : url('./assets/img2.png');
+    --bg-image3 : url('./assets/img3.png');
+
+
 }
 
 /* ---- END OF VARIABLES SECTION ------- */
