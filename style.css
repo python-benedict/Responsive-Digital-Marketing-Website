@@ -221,6 +221,35 @@ ul{
 /* ---- END OF GLOBAL CLASSES ------- */
 
 
+/* ---- START OF MEDIA QUERY ------- */
+
+/* for large screen sm (640px) */
+
+@media (min-width:640px) {
+    
+}
+
+/* for large screen md (768px) */
+
+@media (min-width:768px) {
+    
+}
+
+/* for large screen lg (1024px) */
+
+@media (min-width:1024px) {
+    
+}
+
+/* for large screen xl (1280px) */
+
+@media (min-width:1280px) {
+    
+}
+
+/* ---- END OF MEDIA QUERY ------- */
+
+
 /* ---- Start of Navigation Bar ------- */
 
 #nav{
