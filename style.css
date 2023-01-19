@@ -68,5 +68,26 @@ ul{
 .text-red{
     color: var(--text-red);
 }
+.bg-gradient{
+    background: var(--bg-gradient);
+}
+.bg-gradient-indigo{
+    background: var(--bg-gradient-indigo);
+}
+.bg-peach{
+    background: var(--bg-gradient-peach);
+}
+.bg-red{
+    background: var(--bg-red);
+}
+.bg-blue{
+    background: var(--bg-blue);
+}
+.bg-yellow{
+    background: var(--bg-yellow);
+}
+.bg-purple{
+    background: var(--bg-purple);
+}
 
 /* ---- END OF GLOBAL CLASSES ------- */
