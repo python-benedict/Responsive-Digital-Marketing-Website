@@ -196,6 +196,15 @@ ul{
 .btn-primary:hover{
     background: var(--bg-gradient-indigo);
 }
-
+.bg-cover{
+    background: var(--bg-cover);
+    object-fit: fill;
+}
+.d-inline{
+    display: inline-block;
+}
+.d-block{
+    display: block;
+}
 
 /* ---- END OF GLOBAL CLASSES ------- */
