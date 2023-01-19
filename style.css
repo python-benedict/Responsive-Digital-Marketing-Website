@@ -49,3 +49,24 @@ ul{
 }
 
 /* ---- END OF VARIABLES SECTION ------- */
+
+
+/* ---- START OF GLOBAL CLASSES ------- */
+
+.text-dark{
+    color: var(--text-dark);
+}
+.text-white{
+    color: var(--text-white);
+}
+.text-light{
+    color: var(--text-light);
+}
+.text-gray{
+    color: var(--text-gray);
+}
+.text-red{
+    color: var(--text-red);
+}
+
+/* ---- END OF GLOBAL CLASSES ------- */
