@@ -32,8 +32,12 @@
     --bg-image1 : url('./assets/img1.png');
     --bg-image2 : url('./assets/img2.png');
     --bg-image3 : url('./assets/img3.png');
+}
 
-
+* > *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 /* ---- END OF VARIABLES SECTION ------- */
