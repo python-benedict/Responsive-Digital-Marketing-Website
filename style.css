@@ -190,5 +190,12 @@ ul{
      font-family: var(--font-poppins);
      font-weight: bold;
 }
+.btn-shadow{
+    box-shadow: var(--box-shadow);
+}
+.btn-primary:hover{
+    background: var(--bg-gradient-indigo);
+}
+
 
 /* ---- END OF GLOBAL CLASSES ------- */
