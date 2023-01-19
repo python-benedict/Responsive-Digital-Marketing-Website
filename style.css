@@ -238,13 +238,38 @@ ul{
 /* for large screen lg (1024px) */
 
 @media (min-width:1024px) {
-    
+    .container{
+        max-width: 1024px;
+    }
+    #nav{
+        flex-direction: row !important;
+    }
+    #nav .toggle-btn > button{
+        display: none;
+    }
+    .collapse{
+        max-height: initial !important;
+    }
+    .collapse ul{
+        flex-direction: row !important;
+    }
+    .active{
+        max-height: 100% !important;
+    }
+    #nav .flex-initial ul button{
+        display: inline-block !important;
+    }
 }
 
 /* for large screen xl (1280px) */
 
 @media (min-width:1280px) {
-    
+    #nav{
+        background: transparent !important;
+    }
+    #nav .flex-initial ul button{
+        display: inline-block !important;
+    }
 }
 
 /* ---- END OF MEDIA QUERY ------- */
