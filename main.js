@@ -6,6 +6,7 @@ window.onload = function digital_fn(){
     let collapse = document.querySelector('#nav .collapse')
 
     toggle.addEventListener('click', function(event){
-        console.log(toggle)
+        collapse.classList.toggle('active')
+        // console.log(toggle)
     });
 }
