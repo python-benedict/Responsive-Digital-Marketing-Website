@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 /* ---- START OF VARIABLES SECTION ------- */
 
@@ -16,6 +17,9 @@
     --bg-red: rgb(254, 247, 252);
     --bg-yellow: rgb(255, 255, 246);
     --bg-purple: rgb(246, 255, 255);
+
+    /* FONT FAMILY */
+    --font-poppins: 'Poppins', 'sans-serif';
 }
 
 /* ---- END OF VARIABLES SECTION ------- */
