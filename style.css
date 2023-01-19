@@ -177,8 +177,18 @@ ul{
     font-weight: bold;
 }
 .link:hover{
-    color: var(--text-red);
-    
+    color: var(--text-red);  
+}
+.btn{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.btn-primary{
+     padding: .8rem 2rem;
+     border-radius: 50px;
+     font-family: var(--font-poppins);
+     font-weight: bold;
 }
 
 /* ---- END OF GLOBAL CLASSES ------- */
