@@ -90,4 +90,8 @@ ul{
     background: var(--bg-purple);
 }
 
+.font-poppins{
+    font-family: var(--font-poppins);
+}
+
 /* ---- END OF GLOBAL CLASSES ------- */
