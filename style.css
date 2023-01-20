@@ -112,7 +112,7 @@ ul{
 .text-xl{
     font-size: 3em;
 }
-.text-2lg{
+.text-2xl{
     font-size: 5em;
 }
 .font-bold{
@@ -343,3 +343,12 @@ ul{
     padding-top: 16rem;
 }
 /* ---- END OF BANNER AREA STYLE ------- */
+
+
+/* ---- AGENCY AREA STYLE ------- */
+
+#site-main .agency-area{
+    padding: 5em 0;
+}
+
+/* ---- END OF AGENCY AREA STYLE ------- */
