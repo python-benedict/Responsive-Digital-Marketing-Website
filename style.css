@@ -395,6 +395,13 @@ ul{
     border-radius: 8px;
     filter: blur(1px);
 }
+#site-main .life-area .grid-images .item-three{
+    grid-area: 3 / 4 / 8 / 14;
+    background: var(--bg-image2) no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    z-index: 99;
+}
 
 
 /* END OF DIGITAL LIFE AREA STYLE */
