@@ -226,7 +226,9 @@ ul{
 /* for large screen sm (640px) */
 
 @media (min-width:640px) {
-    
+    .sm-text-xl{
+        font-size: 3em;
+    }
 }
 
 /* for large screen md (768px) */
@@ -320,3 +322,21 @@ ul{
     max-height: 50vh !important;
 }
 /* ---- End of Navigation Bar ------- */
+
+
+/* ---- START OF BANNER AREA STYLE ------- */
+
+#site-main .banner-area{
+    width: 100%;
+    position: relative;
+    background: var(--bg-cover);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    z-index: -99;
+}
+
+#site-main .banner-area .banner-title{
+    height: 95vh;
+    padding-top: 16rem;
+}
+/* ---- END OF BANNER AREA STYLE ------- */
