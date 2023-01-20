@@ -384,6 +384,17 @@ ul{
     border-radius: 8px;
     filter: blur(1px);
 }
+#site-main .life-area .grid-images .item-two{
+    background: var(--text-gray);
+    grid-column-start: 9;
+    grid-column-end: 16;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    background: var(--bg-image2) no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    filter: blur(1px);
+}
 
 
 /* END OF DIGITAL LIFE AREA STYLE */
