@@ -223,7 +223,7 @@ ul{
 
 /* ---- START OF MEDIA QUERY ------- */
 
-/* for large screen sm (640px) */
+/* for  screen sm (640px) */
 
 @media (min-width:640px) {
     .sm-text-xl{
@@ -231,7 +231,7 @@ ul{
     }
 }
 
-/* for large screen md (768px) */
+/* for  screen md (768px) */
 
 @media (min-width:768px) {
     
@@ -260,6 +260,9 @@ ul{
     }
     #nav .flex-initial ul button{
         display: inline-block !important;
+    }
+    .lg-cols-3{
+        grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 }
 
