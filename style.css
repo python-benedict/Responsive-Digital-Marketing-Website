@@ -418,4 +418,19 @@ ul{
     width: 80%;
 }
 
+#site-main .counting-area .count-box{
+    display: flex;
+    justify-content: center;
+    margin: 2em 0;
+}
+
+#site-main .counting-area .count-box .grid{
+    display: -ms-inline-grid;
+    display: -moz-inline-grid;
+    grid-gap: 2px;
+    background-color: var(--text-light);
+    border-radius: 10px;
+
+}
+
 /* END OF COUNTING AREA STYLING */
