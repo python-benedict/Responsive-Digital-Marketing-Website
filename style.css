@@ -432,5 +432,10 @@ ul{
     border-radius: 10px;
 
 }
+#site-main .counting-area .count-box .grid > div{
+    background-color: white;
+    padding: 2em 2.5em;
+    text-align: center;
+}
 
 /* END OF COUNTING AREA STYLING */
