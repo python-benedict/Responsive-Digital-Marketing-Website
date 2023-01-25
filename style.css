@@ -241,6 +241,9 @@ ul{
     .md-text-left{
         text-align: left;
     }
+    .md-mx-initial{
+        margin: initial;
+    }
     
 }
 
@@ -410,6 +413,9 @@ ul{
 
 #site-main .counting-area{
     padding: 7em 0;
+}
+#site-main .counting-area .grid-one p{
+    width: 80%;
 }
 
 /* END OF COUNTING AREA STYLING */
