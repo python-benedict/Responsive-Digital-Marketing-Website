@@ -439,3 +439,12 @@ ul{
 }
 
 /* END OF COUNTING AREA STYLING */
+
+
+/* START OF CARD AREA STYLING */
+#site-main .card-area .grid{
+    column-gap: 4em;
+    row-gap: 2em;
+}
+/* END OF CARD AREA STYLING */
+
